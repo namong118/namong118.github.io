@@ -7,16 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-Unity 클라이언트 개발자입니다. 시각정보디자인을 전공하여 디자인 감각을 바탕으로 게임 개발을 하고 있습니다.
+디자인과를 졸업 후 프로그래밍을 공부하여 프로그래머로 근무한 경험을 바탕으로 **TA(Technical Artist)**가 되고자 하는 개발자입니다.
 
-넵튠에서 3년 4개월간 다수의 모바일 게임 라이브 서비스 및 신규 프로젝트 개발에 참여했습니다.
+새로운 분야나 기술을 배우고 알아가는 것을 좋아하고, 능동적이고 적극적인 커뮤니케이션을 통해 주어진 문제를 해결할 때 가장 큰 보람을 느낍니다.
 
 ## 기술 스택
 
-**Game Dev:** Unity, C#, UGUI, NGUI, UniRx, Addressable Asset System, Flatbuffer  
-**3D/Art:** Unreal Engine 5, 3dsMax, ZBrush, Substance 3D Painter  
-**Tools:** Jenkins, GitHub, SourceTree, Fork, Photoshop  
-**Languages:** Korean (native), English (OPIc AL / TOEIC 945)
+**Game Dev:** Unity, C#, C++, UGUI, NGUI, UniRx, Addressable Asset System, Flatbuffer  
+**3D / Art:** Unreal Engine 5, 3dsMax, ZBrush, Substance 3D Painter, Blender, Houdini  
+**Shader:** HLSL, Unreal Material Editor  
+**Tools:** Jenkins, GitHub, SourceTree, Fork, Photoshop, Slack  
+**Language:** English (OPIc AL / TOEIC 945)
 
 ## 경력
 
@@ -25,7 +26,7 @@ Unity 클라이언트 개발자입니다. 시각정보디자인을 전공하여 
 - AF Project — 신규 캐주얼 방치형 타이쿤 게임 초기 개발 ~ 알파 테스트
 - LinePuzzle TanTan / 프렌즈 사천성 / 탄탄 사천성 — 라이브 서비스 유지 및 기능 개발
 
-자세한 내용은 [CV](/cv/) 페이지를 참고해주세요.
+자세한 내용은 [CV](/cv/) 페이지, 작업물은 [Portfolio](/portfolio/) 페이지를 참고해주세요.
 
 ## 연락처
 
