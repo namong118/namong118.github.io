@@ -7,9 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-저는 시각정보디자인을 전공한 개발자입니다.
+Unity 클라이언트 개발자입니다. 시각정보디자인을 전공하여 디자인 감각을 바탕으로 게임 개발을 하고 있습니다.
 
-디자인과 개발의 경계를 넘나들며, 사용자 경험을 중심에 둔 결과물을 만드는 것을 좋아합니다.
+넵튠에서 3년 4개월간 다수의 모바일 게임 라이브 서비스 및 신규 프로젝트 개발에 참여했습니다.
+
+## 기술 스택
+
+**Game Dev:** Unity, C#, UGUI, NGUI, UniRx, Addressable Asset System, Flatbuffer  
+**3D/Art:** Unreal Engine 5, 3dsMax, ZBrush, Substance 3D Painter  
+**Tools:** Jenkins, GitHub, SourceTree, Fork, Photoshop  
+**Languages:** Korean (native), English (OPIc AL / TOEIC 945)
+
+## 경력
+
+**넵튠** · 게임 클라이언트 개발자 · 2021.04 – 2024.07 (3년 4개월)
+
+- AF Project — 신규 캐주얼 방치형 타이쿤 게임 초기 개발 ~ 알파 테스트
+- LinePuzzle TanTan / 프렌즈 사천성 / 탄탄 사천성 — 라이브 서비스 유지 및 기능 개발
+
+자세한 내용은 [CV](/cv/) 페이지를 참고해주세요.
 
 ## 연락처
 
